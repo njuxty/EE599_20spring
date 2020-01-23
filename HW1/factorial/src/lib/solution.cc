@@ -1,7 +1,7 @@
 #include "solution.h"
 
 std::string Solution::PrintHelloWorld() { 
-  return "**** Hello World ****"; 
+  return "**** My name is Tianyi and I like Pokemon! ****"; 
 }
 
 int Solution::Factorial(int N) {

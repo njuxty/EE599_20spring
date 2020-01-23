@@ -5,7 +5,7 @@
 TEST(HelloWorldShould, ReturnHelloWorld) {
   Solution solution;
   std::string actual = solution.PrintHelloWorld();
-  std::string expected = "**** Hello World ****";
+  std::string expected = "**** My name is Tianyi and I like Pokemon! ****";
   EXPECT_EQ(expected, actual);
 }
 
